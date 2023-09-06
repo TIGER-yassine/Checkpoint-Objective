@@ -1,0 +1,11 @@
+How does the web work?
+Gets the URL
+It then sends a request to the website server
+It then analyzes the server's response
+Then displays the page
+What do you need to be a web developer?
+Web developers need a combination of graphic design skills and 
+Technical Computer
+ skills that will allow them to create particular designs on web pages
+Why did you choose to learn web development?
+Learn a new skill and...bch n5dem :/
